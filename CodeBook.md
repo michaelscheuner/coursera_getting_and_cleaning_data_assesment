@@ -1,5 +1,12 @@
 # Code Book for Coursera Getting and Cleaning Data Assignment
 
+## Variables
+
+## Used Transformations
+
+
+## Data Fields
+
 1 subject
 
 2 activity
