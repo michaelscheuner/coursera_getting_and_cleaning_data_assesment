@@ -16,8 +16,8 @@ A call of list.files() should give you the following entries:
 [1] "activity_labels.txt" "features_info.txt"   "features.txt"        "README.txt"          "test"                "train"
 
 
-## Running run_analysis.r
+## Running run_analysis.R
 
 Running the script results with the file "tidy.txt" in the current working directory. This is the required
 output as described in Peer Assessment Description. The format and used transformations are described
-in the CodeBook.md
+in the CodeBook.md. It makes use of the reshape2 package, there are no other dependencies or R scripts to use.
