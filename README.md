@@ -3,7 +3,7 @@ Getting and cleaning data assesment
 
 This is my repository for the Coursera "Getting-And-Cleaning-Data" Peer-Assesment.
 
-## Perequesites
+## Prerequisites
 
 After downloading and unzipping the data archive "getdata-projectfiles-UUCI HAR Dataset.zip"
 from the assessment-page, you end up with a directory "UCI HAR Dataset". Please make
@@ -17,3 +17,7 @@ A call of list.files() should give you the following entries:
 
 
 ## Running run_analysis.r
+
+Running the script results with the file "tidy.txt" in the current working directory. This is the required
+output as described in Peer Assessment Description. The format and used transformations are described
+in the CodeBook.md
