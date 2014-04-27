@@ -1,6 +1,17 @@
 # Code Book for Coursera Getting and Cleaning Data Assignment
 
-## Variables
+## Input Files
+
+Following files are Read:
+
+* features.txt for reading the column names und filtering to the
+wanted mean() - and std() - columns.
+* activity_labels.txt for labeling the activites in a human readable manner.
+* for test and train data:
+  * subject_xxxx.txt the subject column
+  * y_xxxx.txt the activities column
+  * X_xxxx.txt the features columns
+
 
 ## Used Transformations
 
